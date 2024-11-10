@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "TECLADO Gaming HP RGB",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaW3r7QbiuaX4DSY3KMLoQsZ5BiEgrm-LFZQ&s",
+    "price": "$12",
+    "description": "Teclado Gamer HP K110 Rainbow  Tipo Membrana"
+  },
+  {
+    "id": 2,
+    "name": "TECLADO Gaming Antryx Mecanico",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFERhLrS80Da6-SAtGkobbJwK5NxkoNOGrLA&s",
+    "price": "$49",
+    "description": "Retroiluminación y luz de teclas personalizables en color RGB"
+  },
+  {
+    "id": 3,
+    "name": "TECLADO Gaming ASUS ROG RGB",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjFNa8C1PSpI0gpXm8YkZeObSTLJ035a0Cpg&s",
+    "price": "$140",
+    "description": "Teclado RGB para juegos ROG Strix Scope RX para jugadores de FPS, con switches mecánicos"
+  },
+  {
+    "id": 4,
+    "name": "TECLADO Gaming Corsair K60",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe2haEoGmH8M6RV9xtXw5MxDbeCi5eAUEocA&s",
+    "price": "$73",
+    "description": "El teclado mecánico para juegos CORSAIR K60 PRO se ha diseñado con una estructura de aluminio cepillado duradera"
+  },
+  {
+    "id": 5,
+    "name": "Mouse Gaming Logitech G703",
+    "imageUrl": "https://cdn.memorykings.pe/files/2020/11/10/325255-MK025845A.jpg",
+    "price": "$49.99",
+    "description": "Incorpora el avanzado sensor de juegos para un seguimiento y eficiencia energética 10 veces superior a la de la generación anterior."
+  },
+  {
+    "id": 6,
+    "name": "Mouse Gaming Antryxq KURTANA",
+    "imageUrl": "https://cdn.memorykings.pe/files/2022/09/27/333135-MK030450A.jpg",
+    "price": "$17.50",
+    "description": "Diseño ergonómico de 9 botones, 8 para juegos 1 para efectos de iluminación"
+  },
+  {
+    "id": 7,
+    "name": "Mouse Gaming PHILIPS G201",
+    "imageUrl": "https://cdn.memorykings.pe/files/2022/03/07/336427-MK030681A.jpg",
+    "price": "$18",
+    "description": "El mouse para juegos de la serie G200, con 8 botones y alta precision, lo ayudara a superar a la competencia."
+  },
+  {
+    "id": 8,
+    "name": "Mouse Gaming EVGA TORQ X10",
+    "imageUrl": "https://cdn.memorykings.pe/files/2020/10/16/94045-MK017549A.jpg",
+    "price": "$44",
+    "description": "Construido con materiales de primera  este ratón ha sido diseñado desde cero para satisfacer las necesidades de los jugadores hardcore."
+  },
+  {
+    "id": 9,
+    "name": "Auricular Gaming RAZER BARRACUDA Bluetooth",
+    "imageUrl": "https://cdn.memorykings.pe/files/2022/11/25/346015-MK033388A.jpg",
+    "price": "$149",
+    "description": "Auriculares inalámbricos para móvil y juegos multiplataforma"
+  },
+  {
+    "id": 10,
+    "name": "Auricular Gaming MSI DS501",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBB_H2XiVs2ot6aukEsxem8x3MoGE5F8cf6A&s",
+    "price": "$24",
+    "description": "El audífono MSI DS501 cuenta con parlantes de alta calidad de 40mm que proporcionan un sonido detallado en todas las frecuencias."
+  },
+  {
+    "id": 11,
+    "name": "Auricular Gaming Hyperx Cloud III Black",
+    "imageUrl": "https://cdn.memorykings.pe/files/2024/06/05/350125-MK036972A.jpg",
+    "price": "$74",
+    "description": "Auriculares inclinados de 53 mm ajustados para un audio impecable"
+  },
+  {
+    "id": 12,
+    "name": "Monitor Asus Gaming 1ms",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSziI8o5CH-RjA3QJP3H-_O8zYb_zZeec7Bg&s",
+    "price": "$105",
+    "description": "Monitor Full HD de 21,5” con 1 ms de tiempo de respuesta para eliminar las imágenes borrosas y ofrecer una acción totalmente fluida."
+  },
+  {
+    "id": 13,
+    "name": "Monitor Asus TUF 180hz 1ms",
+    "imageUrl": "https://cdn.memorykings.pe/files/2024/02/29/349528-MK036377A.jpg",
+    "price": "$185",
+    "description": "Monitor de juegos IPS rápido Full HD  de 23.8 pulgadas con frecuencia de actualización de 180 Hz"
+  },
+  {
+    "id": 14,
+    "name": "Monitor 27 Asus ROG 360hz NVIDIA",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7dGvgjIimZv0CXuGZCCiFKitmGVhjW70K-Q&s",
+    "price": "$999",
+    "description": "Monitor gamer de 27 pulgadas  con Ultrafast IPS y frecuencia de actualización de 360Hz, para jugadores profesionales."
+  }
+]
